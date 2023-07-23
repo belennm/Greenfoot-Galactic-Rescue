@@ -34,7 +34,7 @@ public class Game extends World {
 
 
     private boolean isColliding(Actor actor1, Actor actor2) {
-        int width1 = actor1.getImage().getWidth();
+        int width1 = actor1.getImage().getWidth(); // cuando rocket se posiciona sobre groot
         int height1 = actor1.getImage().getHeight();
         int width2 = actor2.getImage().getWidth();
         int height2 = actor2.getImage().getHeight();
@@ -55,7 +55,7 @@ public class Game extends World {
     
     public void died(){
         if (rocket.getHealth() <= 0) {
-            Greenfoot.setWorld(new Game());
+            Greenfoot.setWorld(new Game()); 
         }
     }
     
