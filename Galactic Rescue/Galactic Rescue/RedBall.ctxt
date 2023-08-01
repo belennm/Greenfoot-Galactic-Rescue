@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RedBall
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkCollision()
+comment3.params=damage
+comment3.target=void\ setDamage(int)
+comment4.params=
+comment4.target=void\ removeSelf()
+comment5.params=
+comment5.target=void\ moveDown()
+numComments=6

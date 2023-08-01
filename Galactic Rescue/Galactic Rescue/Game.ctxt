@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment10.params=
+comment10.target=void\ prepare()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ displayInstructions()
+comment4.params=
+comment4.target=void\ spawnRedBalls()
+comment5.params=
+comment5.target=void\ moveScar()
+comment6.params=
+comment6.target=void\ checkCollision()
+comment7.params=actor1\ actor2
+comment7.target=boolean\ isColliding(greenfoot.Actor,\ greenfoot.Actor)
+comment8.params=
+comment8.target=void\ showGameOver()
+comment9.params=
+comment9.target=void\ died()
+numComments=11

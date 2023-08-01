@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scar
+comment1.params=world
+comment1.target=Scar(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ followRocket()
+comment4.params=
+comment4.target=void\ moveUpDown()
+comment5.params=
+comment5.target=void\ showGameOver()
+numComments=6
